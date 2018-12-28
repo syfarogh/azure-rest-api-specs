@@ -1779,9 +1779,9 @@
           "type": "string",
           "description": "The GatewayManager Etag."
         },
-        "allowGlobalReach": {
+        "globalReachEnabled": {
           "type": "boolean",
-          "description": "Flag to enable Global Reach on the circuit."
+          "description": "Flag denoting Global reach status."
         }        
       },
       "description": "Properties of ExpressRouteCircuit."
